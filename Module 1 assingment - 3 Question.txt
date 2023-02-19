@@ -1,0 +1,59 @@
+3) What is SDLC?Explain each phase of SDLC?
+
+        Answer:-
+
+SDLC fullform is (Software Development Life Cycle)
+
+SDLC means for making a best to best software so first to last all process to implimanting and made a best 
+software its called Software development Life Cycle (SDLC).
+
+And SDLC process is step by step and line by line.
+
+1)PLANNING (REIQUIRMENT)
+2)ANALYSIS
+3)DESINGNING
+4)IMPLIMANTION
+5)TESTING
+6)MAINTENANCE
+
+
+IN DETAIL OF ALL STEP
+
+1)planning;
+first of all making a software we are planning for best strategy and market place.
+and checking collection data for which types of market demand and making a blueprint.
+its called planning.
+
+2)analysis;
+for making a software we are search in market which types of requirment,which types of demand,
+which types of market.
+all createria study and based on requirment we are moving for making a software.
+and search and fullfill our requirment.
+its called a analysis.
+
+3)desinging;
+based on our analysis we are working on desinging through HTML,CSS,Javascript.
+Becouse of for making a best software desinging part is most important.
+its called desingning.
+
+4)implimantation;
+based on our analysis and based on our designing we are working off the all process and creating and added
+all our crearetia.
+we are added logical point,all types of information for showing in our software.
+its called implimantation.
+
+5)testing;
+after the implimantation process we are checking this software.
+software is including our information software is proper working or not.
+our information is properly showing or not.
+and any king of problem,error,bug or trubleshoot are showing in this software so solve this problem and complete
+the software work.
+its called testing.
+
+6)maintanance;
+after the all process and software is properly working we are checking time to time.
+including regular updates and changing information.
+and our software is working on properly in future and not coming any bug or problem
+ all the time and maintaining this bug and making best.
+its called maintainance.
+
