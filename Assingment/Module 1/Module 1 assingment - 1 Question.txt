@@ -1,0 +1,26 @@
+What is software? What is software engineering?
+
+        Answer:- What is sofware?
+
+The software means is a collection of all computer programs information and related data.
+
+That provide to computer all information and telling how the work complete and what work complete.
+
+That is called software.
+
+
+       Answer:- What is software engineering?
+
+Software engineering means to the desing and development and maintance of software.
+
+Software engineering is introduce low quility software projects.
+
+software generally exceeds timelines,budgets,and reduced level of quility.
+
+That is called software engineering.
+
+
+
+
+
+
