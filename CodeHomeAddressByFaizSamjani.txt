@@ -1,9 +1,0 @@
-//write a program to show home address
-#include<stdio.h>
-void main()
-{
-    printf("Bhagat geat road");
-    printf("Near,Old government hospital");
-    printf("Villege-Vasavad-364490,Taluka-Gondal,District-Rajkot");
-
-}
